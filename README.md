@@ -3,6 +3,8 @@
 ### Overview
 Build an AI-powered car insurance app using **Flutter**. The app will automate vehicle damage assessments using AI and computer vision, speed up claims, and detect fraud by analyzing image metadata. It provides a simple, secure, and interactive mobile experience for users.
 
+[![alt text](image-2.png)](https://drive.google.com/file/d/1hIuG3XOC31NaawziorRbjI7AHG89I_0C/view?usp=drive_link)
+
 ---
 
 ## 1. 🎯 Project Scope & Goals
