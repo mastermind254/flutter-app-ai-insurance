@@ -42,9 +42,6 @@ The Flutter app should:
 - Use **TensorFlow + OpenCV** for classification and segmentation.
 - Convert to **TFLite** for efficient performance on mobile.
 - Use EXIF metadata (timestamp, location) for **fraud detection**.
-
----
-
 ## 4. 📱 Key Features
 
 ### 4.1 Claim Submission
@@ -85,14 +82,6 @@ The Flutter app should:
 - Add **TFLite model** for on-device damage detection.
 - Use **OpenCV via platform channels** (or alternatives like native plugin bridges).
 - Provide **real-time feedback** with confidence percentages.
-
-### 5.3 Database & Storage
-- Use **SQLite** for offline claim storage.
-- Upload images to **Firebase/AWS S3** if needed.
-- Encrypt data using **AES-256** for security.
-
----
-
 ## ✅ Expected Outcome
 
 - ⚡ Processes claims **10x faster** than manual workflows.
